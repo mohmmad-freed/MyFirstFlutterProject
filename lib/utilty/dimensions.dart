@@ -1,0 +1,1 @@
+const double normalSlideHight=135;
